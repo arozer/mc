@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContosoUniversity",
+    "\\ContosoUniversity\\Data",
+    "\\ContosoUniversity\\Views",
+    "\\ContosoUniversity\\wwwroot"
+  ],
+  "SelectedNode": "\\ContosoUniversity\\Data\\SchoolContext.cs",
+  "PreviewInSolutionExplorer": false
+}
